@@ -1,0 +1,9 @@
+node_modules
+.next
+.vercel
+npm-debug.log*
+yarn-error.log*
+*.local
+dist
+coverage
+node_modules
